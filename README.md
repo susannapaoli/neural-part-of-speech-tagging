@@ -1,1 +1,1 @@
-# part-of-speech-tagging
+# Part of Speech Tagging
